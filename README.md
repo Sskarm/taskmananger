@@ -81,7 +81,7 @@ The application allows users to manage tasks by creating, editing, and deleting 
 ---
 
 ### 📌 License
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 **Thank you for using MediaLab Task Manager! 😊**
